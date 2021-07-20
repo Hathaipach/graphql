@@ -1,0 +1,7 @@
+https://graphql.org/graphql-js/
+
+If you run this with:
+node server.js
+
+Output
+{ data: { hello: 'Hello world!' } }
